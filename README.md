@@ -119,7 +119,7 @@ steel-surface-defect-ai/
 Clone the repository:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/ankitvectors05/steel-surface-defect-ai.git
 cd steel-surface-defect-ai
 ```
 
